@@ -76,10 +76,6 @@
 			},
 			{
 				"Name": "CoverMouth",
-				"File": "expressions/托脸.exp3.json"
-			},
-			{
-				"Name": "TouchFace",
 				"File": "expressions/捂嘴.exp3.json"
 			},
 			{
