@@ -24,7 +24,7 @@
 					"File": "motions/摊手动画.motion3.json"
 				}
 			]
-		}
+		},
 		"Expressions": [
 			{
 				"Name": "Smart",
@@ -48,10 +48,6 @@
 			},
 			{
 				"Name": "CatMouth",
-				"File": "expressions/喝饮料.exp3.json"
-			},
-			{
-				"Name": "Drink",
 				"File": "expressions/猫猫嘴.exp3.json"
 			},
 			{
